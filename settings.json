@@ -7,15 +7,15 @@
 	"anticall": true,
 	"auto_welcome_msg": true,
 	"auto_leave_msg": true,
-	"prefix": ".",
+	"prefix": "#",
 	"language":"ind",
-	"ownerNumber": "6289525518325",
-	"ownerNumberr": "6289525518325",
-	"cr": "@BAYU OFC",
-	"ownername": "BAYUU OFC",
-	"botname":"BAYUBOT",
+	"ownerNumber": "62895324821654",
+	"ownerNumberr": "62895324821654",
+	"cr": "@Radit BCF",
+	"ownername": "RaditBFC",
+	"botname":"RADITBOT",
 	"thumb":"thumbnail_1.jpg",
 	"thumbnail":"thumbnail_2.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
-	"fake": " 「  BAYUBOT  」\nCreated By @BAYUUOFC"
+	"fake": " 「  BAYUBOT  」\nCreated By @RADITBFC"
 }
